@@ -3,3 +3,5 @@ changes to commit
 
 commit of 1
 another commit
+
+a coding issue resolved last min
