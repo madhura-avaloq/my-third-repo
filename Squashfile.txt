@@ -1,3 +1,4 @@
 commit 1 of Squash in git
 commit 2
 commit 3rd
+commit 4th
