@@ -1,6 +1,11 @@
 commit changes
 changes to commit
+<<<<<<< HEAD
 changes in file
 commit another
 next commit
+=======
+
+commit of 1
+>>>>>>> 91519dfb0806d3623390a6530b270e670d78f761
 another commit
