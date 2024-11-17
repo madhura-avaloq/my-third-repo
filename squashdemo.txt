@@ -3,3 +3,4 @@ changes to commit
 changes in file
 commit another
 next commit
+another commit
