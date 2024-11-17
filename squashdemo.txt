@@ -1,2 +1,4 @@
 commit changes
 changes to commit
+
+commit of 1
